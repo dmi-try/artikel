@@ -1,0 +1,15 @@
+@media (-webkit-min-device-pixel-ratio: 2) and (max-width: 1000px) {
+    html {
+      font-size: 40px;
+    }
+  
+    .MuiTypography-body2 {
+      display: none;
+    }
+  
+    button {
+      width: 250px;
+      height: 200px
+    }
+  }
+  
