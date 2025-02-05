@@ -7,8 +7,6 @@ import {
 
 import words from './words';
 
-import './style.css'
-
 const queueSize = 10
 const hitsNeeded = 3
 
