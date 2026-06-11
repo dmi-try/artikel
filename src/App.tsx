@@ -180,7 +180,7 @@ const Game = () => {
       prevResult={prevResult}
     />
     <Typography variant='body2'>
-      Tastatur: der - LINKS, die - AUF, das - RECHTS, neues Spiel - AB, Statistik anzeigen - LEERTASTE
+      Tastatur: der - LINKS, die - AUF, das - RECHTS, neues Spiel - AB, Statistik anzeigen - LEERTASTE.
     </Typography>
   </Container>);
 }
