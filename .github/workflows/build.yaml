@@ -34,6 +34,7 @@ jobs:
           context: .
           push: true
           platforms: linux/arm64
+          provenance: false
           tags: ghcr.io/dmi-try/artikel:latest
 
       - name: Connect to Tailscale
